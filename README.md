@@ -35,7 +35,7 @@ This project automates it: add the new month's file, click Refresh, and the repo
 | `Raw_Data/` | Monthly loan files, January to June 2011 |
 | `New_Month/` | `Loan_JUL_2011.csv`, the file used to test the refresh |
 | `images/` | Dashboard screenshot |
-| `Loan_MIS_Refresh_Demo.mp4` | 70-second screen recording of adding July and clicking Refresh All |
+| `Loan_MIS_Refresh_Demo.mp4` | 55-second screen recording of adding July and clicking Refresh All |
 
 ## How it works
 
