@@ -79,7 +79,7 @@ Amount at Risk   =SUMIFS(Raw_Data[loan_amnt],Raw_Data[Loan Risk],"<>Good")
 
 Refresh demo (adding July and clicking Refresh All):
 
-https://github.com/user-attachments/assets/ac1e193f-7a7a-40a5-bb2c-f279bedd0118
+https://github.com/user-attachments/assets/e4373a1c-1357-4e44-a410-ec7bc66933b8
 
 ## How to use
 
