@@ -77,7 +77,9 @@ Amount at Risk   =SUMIFS(Raw_Data[loan_amnt],Raw_Data[Loan Risk],"<>Good")
 
 ## Demo
 
-Refresh demo (adding July and clicking Refresh All): [Watch the video](Loan_MIS_Refresh_Demo.mp4)
+Refresh demo (adding July and clicking Refresh All):
+
+https://github.com/user-attachments/assets/ac1e193f-7a7a-40a5-bb2c-f279bedd0118
 
 ## How to use
 
